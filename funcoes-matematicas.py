@@ -17,3 +17,9 @@ math.floor(3.95)
 
 ## log
 math.log(50)
+
+# fatorial
+math.factorial(x)
+
+#lcm
+math.lcm(*integers)
